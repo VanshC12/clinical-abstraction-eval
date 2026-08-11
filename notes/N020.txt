@@ -1,0 +1,6 @@
+DISCHARGE SUMMARY
+Patient: 56 y/o male. Admitted with decompensated alcoholic cirrhosis and severe sepsis from spontaneous bacterial peritonitis.
+PMH: Alcohol use disorder, cirrhosis Child-Pugh C. No history of diabetes mellitus.
+Course: Broad spectrum antibiotics, albumin, ICU admission for pressor support. Lactate 6.2 on arrival. Coagulopathic with INR 2.4.
+Metabolic: Patient developed hypoglycemia in the setting of hepatic failure and sepsis. Glucose 38 mg/dL on HD2 at 0900 and 34 mg/dL on HD2 at 1500. Managed with continuous D10 infusion. No insulin, sulfonylurea, or any other antidiabetic agent was administered at any point during this admission, and the patient takes none at home.
+Patient ultimately improved and was transferred to the floor HD5. Discharged HD9 with hepatology follow up.

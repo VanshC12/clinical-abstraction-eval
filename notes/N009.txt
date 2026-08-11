@@ -1,0 +1,7 @@
+DISCHARGE SUMMARY
+Patient: 60 y/o male. Admitted for elective total knee arthroplasty.
+PMH: Type 2 DM (on glipizide at home), hypertension, prior episode of severe hypoglycemia in 2023 requiring EMS response and D50 administration at home.
+Hospital course: Uncomplicated TKA. Glipizide held perioperatively per protocol and restarted POD1. Correctional insulin available but not required.
+Glucose values this admission: 132, 148, 176, 155, 141, 128, 160, 139.
+No hypoglycemic episodes occurred during this hospitalization. The history of severe hypoglycemia noted above is from a prior outpatient event two years ago and is documented here for medication safety context only.
+PT cleared. Discharged home POD3 with home health.

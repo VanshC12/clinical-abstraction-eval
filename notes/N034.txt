@@ -1,0 +1,8 @@
+DISCHARGE SUMMARY
+Patient: 73 y/o female. Admitted for compression fracture of L2 after mechanical fall.
+PMH: Osteoporosis, type 2 diabetes on insulin, hypertension.
+Course: Pain control, PT/OT, brace fitted. Vertebroplasty deferred.
+Diabetes: Glargine 14 units nightly and correctional aspart continued.
+Laboratory note: A basic metabolic panel drawn HD2 at 0615 resulted with glucose 38 mg/dL. The laboratory subsequently flagged this specimen as hemolyzed with a comment indicating the result was unreliable. A repeat specimen drawn at 0705 the same morning resulted at 94 mg/dL. Point-of-care glucose obtained at 0630 at the bedside was 91 mg/dL. The patient was asymptomatic throughout and required no treatment.
+All other glucose values this admission: 145, 132, 121, 156, 108, 119.
+Discharged HD4 to acute rehab.

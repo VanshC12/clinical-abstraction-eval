@@ -1,0 +1,7 @@
+INPATIENT DISCHARGE SUMMARY
+Patient: 81 y/o male    Admitted: 03/14    Discharged: 03/18
+Reason for admission: Fall with hip contusion, no fracture on imaging.
+Diabetes management: Home glyburide 5 mg daily was continued on admission per med rec. Patient has poor PO intake during hospitalization.
+Event: Nursing found patient unresponsive to voice on 03/16 at 1520. Accucheck 36 mg/dL. Glucagon 1 mg IM given, followed by D50. Mental status returned to baseline within 10 minutes. Repeat glucose 118. Glyburide was subsequently held for remainder of admission given renal function (Cr 1.8) and poor intake.
+Endocrine consulted, recommended discontinuing sulfonylurea at discharge.
+Discharged to skilled nursing facility.

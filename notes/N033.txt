@@ -1,0 +1,7 @@
+DISCHARGE SUMMARY
+Patient: 54 y/o male. Admitted with alcohol withdrawal and malnutrition.
+PMH: Alcohol use disorder, type 2 diabetes mellitus on insulin at home.
+Course: CIWA protocol with lorazepam, thiamine, folate, multivitamin. Withdrawal symptoms peaked HD2 and resolved by HD4.
+Diabetes: Home glargine 16 units nightly continued. Correctional aspart 4 units given HD2 at 1400 for glucose of 244.
+Event: HD2 at 2010, laboratory glucose 39 mg/dL. Patient tremulous, though symptoms were initially attributed to withdrawal. D50 administered, repeat glucose 141. This occurred approximately 6 hours after the correctional aspart dose and in the setting of poor nutritional intake.
+Glargine reduced to 8 units. Nutrition consulted. Discharged HD6 with outpatient substance use treatment referral.

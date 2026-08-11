@@ -1,0 +1,8 @@
+DISCHARGE SUMMARY
+Patient: 66 y/o male admitted for exacerbation of heart failure.
+PMH: HFrEF EF 25 percent, type 2 diabetes on insulin, CKD.
+Course: IV diuresis with net 5.5 L negative over 4 days. Weight down 11 lbs.
+Diabetes: Home glargine 22 units nightly and correctional aspart continued throughout.
+Nursing narrative HD3: "Called to bedside at 0300, patient confused and clammy. Blood sugar in the 30s. D50 given per protocol with good response, patient alert and oriented afterward. MD paged and notified. Will continue to monitor closely."
+No numeric point-of-care or laboratory glucose value corresponding to this episode was recorded in the flowsheet or the laboratory record. Documented lab glucose values this admission: 156, 143, 178, 121, 134, 98, 145.
+Discharged HD5 on adjusted diuretic regimen.

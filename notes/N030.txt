@@ -1,0 +1,8 @@
+DISCHARGE SUMMARY
+Patient: 62 y/o male. Admitted for CABG x4.
+PMH: Type 2 diabetes on insulin, CAD, hypertension.
+Course: Uncomplicated CABG. Extubated POD0 evening. Chest tubes removed POD2.
+Glycemic management: Per cardiac surgery protocol, patient placed on IV insulin infusion targeting glucose 140-180 intraoperatively and through POD1.
+Event: POD1 at 0215, glucose 26 mg/dL on point-of-care testing while insulin infusion was running at 3.2 units/hr. Infusion stopped immediately. Two amps D50 given. Repeat glucose 89 at 0230, then 134 at 0300. Patient was sedated at the time and did not exhibit symptoms.
+Insulin infusion restarted at reduced rate with hourly checks. Transitioned to subcutaneous POD2.
+Discharged POD6.

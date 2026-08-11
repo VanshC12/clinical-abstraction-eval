@@ -1,0 +1,7 @@
+DISCHARGE SUMMARY
+Patient: 86 y/o female, nursing home resident. Admitted with altered mental status.
+PMH: Type 2 DM on glipizide 10 mg daily, dementia, CKD stage 3.
+Hospital course: Home glipizide was continued on admission. Workup for AMS included head CT (negative), UA (negative), CXR (negative).
+On HD1 at 1830 the patient became progressively more somnolent. Point-of-care glucose 27 mg/dL. D50 administered with improvement in alertness. Given sulfonylurea half-life and renal impairment, patient was placed on a D10 infusion for 24 hours with q2h glucose checks. Two additional values below 60 occurred during that window (54, 58) but none below 40.
+Glipizide discontinued permanently. Pharmacy consulted.
+Discharged back to facility HD4 on diet-controlled management.

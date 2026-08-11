@@ -1,0 +1,10 @@
+DISCHARGE SUMMARY (transferred record, international units)
+Patient age 70, male. Admission for congestive heart failure exacerbation.
+Comorbid: Type 2 diabetes mellitus, on insulin.
+Treatment: IV furosemide, continued basal insulin glargine 18 units nightly and correctional insulin aspart per sliding scale.
+Laboratory glucose values are reported in mmol/L per sending facility convention:
+  HD1: 9.4, 11.2, 7.8
+  HD2: 8.1, 6.5, 2.1
+  HD3: 7.7, 8.9, 9.1
+The HD2 value of 2.1 mmol/L was drawn at 2340, approximately 5 hours after the evening correctional aspart dose. Patient was symptomatic with diaphoresis. Dextrose given, symptoms resolved.
+Diuresis achieved 6 L net negative. Discharged HD5.

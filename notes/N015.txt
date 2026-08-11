@@ -1,0 +1,7 @@
+ADMISSION AND DISCHARGE SUMMARY
+39 y/o male, found down in his apartment by a family member, EMS activated.
+Prehospital: unresponsive, GCS 8. Field blood glucose 30 mg/dL. IM glucagon administered by EMS.
+ED course: Arrival glucose 34 mg/dL. D50 given in the ED at 0142. Mental status improved to GCS 15 within 20 minutes. Repeat glucose 178.
+History: Type 1 diabetic, reports doubling his evening insulin by mistake at home the night prior.
+Inpatient course: Admitted for observation and diabetes education. First hospital-administered antidiabetic medication was glargine 12 units given at 2100 on the evening of hospital day 1, well after the hypoglycemic episode had resolved. All glucose values from admission onward: 178, 210, 165, 143, 121, 156, 138.
+Discharged HD2 with CDE follow up.

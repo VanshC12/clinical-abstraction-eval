@@ -1,0 +1,8 @@
+DISCHARGE SUMMARY
+Patient: 68 y/o male. Admission for NSTEMI.
+PMH: Type 2 DM on insulin and metformin, CAD, hyperlipidemia.
+Course: Troponin peaked 4.2. Cardiac cath HD2 with DES to the RCA. Started on DAPT, high-intensity statin, beta blocker.
+Diabetes: Metformin held for contrast, glargine 20 units nightly continued, correctional aspart scale in place.
+Glucose values across the admission: 165, 189, 142, 131, 108, 41, 96, 122, 149, 137, 118, 152.
+The value of 41 mg/dL occurred HD3 at 0530 while the patient was NPO for cath the prior day and had reduced intake. Patient asymptomatic. Treated with 15 g oral glucose per protocol. Repeat 96 mg/dL.
+Discharged HD5 with cardiac rehab referral.

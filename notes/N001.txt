@@ -1,0 +1,7 @@
+DISCHARGE SUMMARY
+Age: 67  Sex: M  LOS: 4 days
+Admission Dx: Diabetic ketoacidosis
+Course: Patient presented with polyuria, polydipsia, glucose 512, anion gap 22. Started on IV insulin infusion per DKA protocol on arrival. Gap closed by hospital day 2. Transitioned to subcutaneous insulin glargine 20 units nightly with mealtime lispro.
+Notable events: On hospital day 2 at 0410, patient became diaphoretic and tremulous. Point-of-care glucose 32 mg/dL. One amp D50 administered IV with symptom resolution. Repeat glucose 141 at 0435. Insulin infusion had been running continuously until that point. Rate adjusted downward.
+Labs: Glucose values this admission ranged 32 - 512 mg/dL.
+Discharged home on insulin regimen with glucometer teaching.
