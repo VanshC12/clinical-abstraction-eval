@@ -1,0 +1,8 @@
+DISCHARGE SUMMARY
+Patient: 74 y/o male. Admitted for atrial fibrillation with RVR.
+PMH: Type 2 DM on insulin, CAD, CHF.
+Course: Rate controlled with IV diltiazem then transitioned to oral metoprolol. Anticoagulation started.
+Diabetes: Home glargine 20 units nightly and correctional aspart continued.
+Nursing narrative HD2 1400: "Patient reported feeling shaky and sweaty. Concern for hypoglycemic episode. Accucheck obtained, result 55 mg/dL. Juice provided per protocol. Patient states he feels better. Repeat check 15 min later 91 mg/dL. MD notified of hypoglycemic event."
+All documented glucose values this admission: 145, 178, 132, 55, 91, 121, 156, 139, 148.
+Discharged HD3 in normal sinus rhythm.

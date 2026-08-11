@@ -1,0 +1,7 @@
+DISCHARGE SUMMARY
+Age 59, female. Presented to ED with confusion and slurred speech, stroke code activated.
+ED course: Arrival 1412. Stroke code glucose per protocol: 34 mg/dL. Stroke code cancelled. One amp D50 given at 1418. Symptoms fully resolved within 15 minutes. Repeat glucose 187 at 1440. CT head negative.
+History: Type 2 diabetic on home glyburide 10 mg BID. Had not eaten since the previous evening.
+Inpatient course: Admitted for observation. Glyburide was held on admission and never restarted. No insulin or other antidiabetic medication was administered during the inpatient stay.
+Glucose values after the initial ED value: 187, 143, 121, 156, 132, 110, 128.
+Endocrine recommended transition to a DPP-4 inhibitor as an outpatient. Discharged HD2.

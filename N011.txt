@@ -1,0 +1,8 @@
+PEDIATRIC DISCHARGE SUMMARY
+Patient age: 16 years    Sex: F
+Admitting service: Pediatric Endocrinology
+Diagnosis: New onset type 1 diabetes mellitus with mild DKA.
+Course: Presented with 3 weeks polyuria and 12 lb weight loss. Initial glucose 486, bicarbonate 16, ketones positive. IV insulin infusion started, transitioned to subcutaneous basal-bolus on HD2 (glargine 14 units, lispro with meals).
+Event: HD3 at 0530 glucose 35 mg/dL after the patient received her evening lispro but skipped her bedtime snack. Treated with 15 g juice, repeat 96. Basal dose reduced.
+Extensive diabetes education completed with patient and parents. CGM placed.
+Discharged HD4 with pediatric endocrinology follow up in one week.

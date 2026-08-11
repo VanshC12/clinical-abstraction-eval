@@ -1,0 +1,10 @@
+DISCHARGE SUMMARY
+Patient age 77, male. Admitted with urinary tract infection and acute kidney injury.
+PMH: Type 2 diabetes on insulin, BPH, CKD stage 3b.
+Course: IV fluids and antibiotics. Creatinine improved from 3.1 to 1.9 by discharge.
+Diabetes management: Home glargine 32 units continued initially. Correctional aspart per scale.
+Hypoglycemic events: Two episodes documented.
+  - HD2 0400: glucose 37 mg/dL, symptomatic, D50 given, repeat 128.
+  - HD3 0430: glucose 39 mg/dL, asymptomatic, treated with juice, repeat 105.
+Both occurred in the early morning hours following evening insulin administration. Renal impairment likely reduced insulin clearance. Glargine decreased to 16 units after the second event with no further episodes.
+Discharged HD6.

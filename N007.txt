@@ -1,0 +1,7 @@
+DISCHARGE SUMMARY
+Age 55, female. Admitted with pyelonephritis and sepsis.
+Endocrine history: Type 2 diabetes, home regimen insulin NPH 30 units BID.
+Course: Started on IV ceftriaxone. Home NPH continued at 30 units BID on admission by the admitting resident. Patient had significantly reduced oral intake due to nausea.
+Hypoglycemic event: HD3 at 0250 nursing point-of-care glucose read 38 mg/dL. Confirmatory venous serum glucose sent to lab simultaneously resulted at 37 mg/dL. D50 administered. Patient was arousable but confused during the episode. Post-treatment glucose 122.
+Root cause per nursing note: full NPH dose given despite documented poor intake.
+NPH reduced to 15 units BID. No further events. Discharged HD5.

@@ -1,0 +1,7 @@
+DISCHARGE SUMMARY
+Patient: 61 y/o male. Admitted with hyperkalemia and AKI.
+PMH: Type 2 diabetes on insulin, CKD stage 4, hypertension.
+Course: Potassium 6.4 on arrival with EKG changes. Treated with calcium gluconate, IV insulin 10 units with D50, sodium bicarbonate, and sodium zirconium. Potassium normalized to 4.6 within 12 hours. Nephrology followed.
+Glucose monitoring q1h for 6 hours after the insulin-dextrose administration per protocol: 178, 145, 121, 98, 62, 48, 88, 134.
+The nadir value of 48 mg/dL occurred 5 hours after the IV insulin dose. Patient asymptomatic. Treated with additional dextrose per protocol with prompt recovery.
+Home glargine held during AKI, restarted at reduced dose HD3. Discharged HD5.

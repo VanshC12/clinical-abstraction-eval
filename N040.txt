@@ -1,0 +1,8 @@
+DISCHARGE SUMMARY
+Patient: 64 y/o male. Admitted for right total hip arthroplasty.
+PMH: Osteoarthritis, type 2 diabetes on insulin, hypertension.
+Prior hospitalization history: Patient was admitted to this facility in March 2024 for pneumonia, during which he experienced a documented severe hypoglycemic event with glucose of 32 mg/dL requiring D50 administration. That event was attributed to continuation of full-dose home insulin during a period of poor oral intake.
+Current admission course: Uncomplicated THA. Glargine reduced prophylactically to 12 units perioperatively given the prior event. Correctional aspart per low-dose scale.
+Glucose values this admission: 165, 143, 178, 132, 121, 108, 145, 156, 119, 134.
+No hypoglycemic events occurred during this hospitalization. PT cleared POD2.
+Discharged POD3 to home with home health PT.

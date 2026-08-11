@@ -1,0 +1,8 @@
+DISCHARGE SUMMARY
+Patient: 79 y/o male. Admitted for sepsis secondary to cholangitis.
+PMH: Type 2 diabetes on insulin, choledocholithiasis, hypertension.
+Course: Broad spectrum antibiotics, ERCP with stone extraction and stent placement HD2. Clinical improvement thereafter.
+Diabetes: Glargine 26 units nightly continued from home. Correctional aspart per scale. Patient NPO from admission through ERCP.
+Event: HD2 at 0500, prior to ERCP, glucose 30 mg/dL. Patient minimally responsive. Rapid response activated. D50 x1 given with return to baseline within minutes. Repeat glucose 152. Glargine had been administered at full home dose the prior evening despite NPO status.
+Glargine reduced to 12 units for the remainder of the stay. No further events.
+Discharged HD6.

@@ -1,0 +1,7 @@
+DISCHARGE SUMMARY
+Patient: 45 y/o female. Admitted with type 1 diabetes and gastroparesis flare.
+Course: Admitted with intractable nausea and vomiting. IV fluids, antiemetics, erythromycin for prokinetic effect. Symptoms improved by HD3.
+Diabetes management: Home insulin pump discontinued on admission per policy. Placed on hospital glargine 18 units nightly plus correctional aspart q4h.
+Event: HD2 at 1130 the patient reported palpitations and blurred vision. Point-of-care glucose 35 mg/dL. Treated with 25 g IV dextrose. Repeat glucose 118 at 1150. The preceding correctional aspart dose of 5 units had been given at 0800 that morning while the patient was still actively vomiting.
+Correctional scale changed to a reduced-intake scale. Pump resumed at discharge.
+Discharged HD4.
